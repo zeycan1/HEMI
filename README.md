@@ -60,7 +60,8 @@ sudo systemctl start popmd
 ```
 sudo journalctl -u popmd -fo cat
 ```
-
+### Loglarınız bu şekilde görüyorsanız her şey yolunda demktir
+![image](https://github.com/user-attachments/assets/556859a7-041b-4702-99d0-a04bff4a54de)
 ### Bu rehber kıymetli hocamız molla202 nin hazırladığı kodlar ile oluşturulmuştur. Kendisine  teşekkürler 🙏
 
 
