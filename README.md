@@ -4,6 +4,12 @@
 
 ### Discord : https://discord.gg/hemixyz
 
+### Gereksinimler:
+-------------------
+### RAM : 2 GB
+### Storage : 50 GB
+### CPU : 2 Core
+
 ### Sunucumuzu güncelliyoruz
 ```
 sudo apt update
